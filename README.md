@@ -13,3 +13,5 @@
 ## Usage 🚀
 ### 1. Clone the Repository
 ```
+https://github.com/DDhartanto/Hangman.git
+```
